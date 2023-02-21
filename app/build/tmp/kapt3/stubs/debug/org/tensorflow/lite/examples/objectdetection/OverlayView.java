@@ -14,6 +14,7 @@ public final class OverlayView extends android.view.View {
     @org.jetbrains.annotations.NotNull()
     public static final org.tensorflow.lite.examples.objectdetection.OverlayView.Companion Companion = null;
     private static final int BOUNDING_RECT_TEXT_PADDING = 8;
+    private java.util.HashMap _$_findViewCache;
     
     public OverlayView(@org.jetbrains.annotations.Nullable()
     android.content.Context context, @org.jetbrains.annotations.Nullable()

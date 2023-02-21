@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
-        "source": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+        "merged": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
     },
     {
-        "merged": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\src\\main\\res\\layout\\fragment_camera.xml"
     },
     {
-        "merged": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
-        "source": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Android Projects\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+        "merged": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DJS\\Desktop\\Android_Sample_Projects\\blind-assistance-system\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
