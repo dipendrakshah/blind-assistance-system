@@ -17,6 +17,7 @@ public final class CameraFragment extends androidx.fragment.app.Fragment impleme
      * Blocking camera operations are performed using this executor
      */
     private java.util.concurrent.ExecutorService cameraExecutor;
+    private java.util.HashMap _$_findViewCache;
     
     public CameraFragment() {
         super();

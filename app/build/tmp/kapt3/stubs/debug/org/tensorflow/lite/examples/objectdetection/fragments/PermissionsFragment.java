@@ -11,6 +11,7 @@ public final class PermissionsFragment extends androidx.fragment.app.Fragment {
     private final androidx.activity.result.ActivityResultLauncher<java.lang.String> requestPermissionLauncher = null;
     @org.jetbrains.annotations.NotNull()
     public static final org.tensorflow.lite.examples.objectdetection.fragments.PermissionsFragment.Companion Companion = null;
+    private java.util.HashMap _$_findViewCache;
     
     public PermissionsFragment() {
         super();
